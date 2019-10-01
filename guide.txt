@@ -1,0 +1,5 @@
+1. Open power shell.
+2. Go to project path where is scrapy.cfg file.
+3. Run following command :
+scrapy crawl gsmarena_spider --set FEED_URI=output.json --set FEED_FORMAT=json
+4. Result is stored output.json where is scrapy.cfg file.

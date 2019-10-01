@@ -1,0 +1,4 @@
+scrapy
+scrapy-fake-useragent
+scrapy_proxies
+
